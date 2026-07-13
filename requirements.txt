@@ -1,0 +1,14 @@
+﻿numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+scikit-learn==1.5.1
+imbalanced-learn==0.12.3
+librosa==0.10.2.post1
+soundfile==0.12.1
+PyWavelets==1.6.0
+matplotlib==3.9.1
+seaborn==0.13.2
+sounddevice==0.4.7
+pyserial==3.5
+joblib==1.4.2
+tqdm==4.66.4
