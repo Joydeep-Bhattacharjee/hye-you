@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# large / machine-specific artifacts
+data/raw/
+data/processed/
+data/field/
+models/*.joblib
+models/*.keras
+results/*.png
+*.npz
